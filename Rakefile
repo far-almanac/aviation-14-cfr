@@ -9,3 +9,8 @@ desc "Download 14 CFR data from gpo"
 task :download_data do
   sh "bin/download-data"
 end
+
+desc 'Development console'
+task :console do
+  sh "bin/console"
+end
