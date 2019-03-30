@@ -1,0 +1,25 @@
+{
+  "name": "@far-almanac/aviation-14-cfr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/far-almanac/aviation-14-cfr.git"
+  },
+  "contributors": [
+    "Ryan Burnette <ryan.burnette@gmail.com>"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/far-almanac/aviation-14-cfr/issues"
+  },
+  "homepage": "https://github.com/far-almanac/aviation-14-cfr#readme",
+  "dependencies": {
+    "@ryanburnette/console-log-util-inspect": "^1.0.0",
+    "xml2js": "^0.4.19"
+  }
+}
