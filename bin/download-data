@@ -1,7 +1,0 @@
-#!/usr/bin/env bash
-curl -O https://www.gpo.gov/fdsys/pkg/CFR-3000-title14-vol1/xml/CFR-2017-title14-vol1.xml
-curl -O https://www.gpo.gov/fdsys/pkg/CFR-3000-title14-vol2/xml/CFR-2017-title14-vol2.xml
-curl -O https://www.gpo.gov/fdsys/pkg/CFR-3000-title14-vol3/xml/CFR-2017-title14-vol3.xml
-curl -O https://www.gpo.gov/fdsys/pkg/CFR-3000-title14-vol4/xml/CFR-2017-title14-vol4.xml
-curl -O https://www.gpo.gov/fdsys/pkg/CFR-3000-title14-vol5/xml/CFR-2017-title14-vol5.xml
-mv CFR* data
